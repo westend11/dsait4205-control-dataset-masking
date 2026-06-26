@@ -1,0 +1,10 @@
+Figures for "How can we measure pixel-level invariance in visual models?"
+
+figure1_scene.png       -> §2.1 Figure 1: clean scene x, relevant mask r, and r overlaid; label y in title.
+figure2_distractors.png -> §2.3/2.4 Figure 2: x | x' | m triplets for the 4 distractor types,
+                           plus the occluding negative-control row at the bottom.
+figure3_validation.png  -> §5 Figure 3: invariance gap Δ vs distractor intensity, vanilla vs robust,
+                           both splits. Numbers match the §5 text (vanilla 0.25->0.61, robust 0.006->0.027).
+
+All 84x84 source frames rendered at 150 dpi. To embed in the blog, reference these filenames
+in the Figure 1/2/3 blockquotes.
